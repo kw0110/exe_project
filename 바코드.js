@@ -28,3 +28,6 @@ Quagga.init({
 Quagga.onDetected(function(result) {
   console.log('Barcode detected:', result.codeResult.code);
 });
+
+
+function kw(){}
